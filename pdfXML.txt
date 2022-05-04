@@ -1,0 +1,7 @@
+<pdfxml>
+  <LTPage y0="0" y1="595" x0="0" x1="842" width="842" height="595" bbox="[0, 0, 842, 595]" pageid="1" rotate="0" page_index="0" page_label="">
+    <LTImage y0="15.0" y1="580.0" x0="27.451" x1="814.548" width="787.097" height="565.0" bbox="[27.451, 15.0, 814.548, 580.0]" name="X0" colorspace="[&quot;/DeviceRGB&quot;]" bits="8" imagemask="null" srcsize="[847, 608]" stream="&lt;PDFStream(3): raw=58223, {'Type': /'XObject', 'Subtype': /'Image', 'Width': 847, 'Height': 608, 'BitsPerComponent': 8, 'ColorSpace': /'DeviceRGB', 'Filter': /'DCTDecode', 'Length': 58221}&gt;">
+      <LTFigure y0="15.0" y1="580.0" x0="27.451" x1="814.548" width="787.097" height="565.0" bbox="[27.451, 15.0, 814.548, 580.0]" name="X0" matrix="[787.097, 0.0, 0.0, 565.0, 27.451, 15.0]"/>
+    </LTImage>
+  </LTPage>
+</pdfxml>
